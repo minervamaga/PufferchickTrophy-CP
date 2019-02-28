@@ -1,0 +1,12 @@
+{
+   "Name": "Pufferchick Trophy",
+   "Author": "minervamaga",
+   "Version": "1.0.0",
+   "Description": "Replaces the Stardew Hero's trophy with a cute Pufferchick trophy.",
+   "UniqueID": "minervamaga.CP.PufferchickTrophy",
+   "MinimumApiVersion": "2.6",
+   "UpdateKeys": [ "Nexus:3480" ],
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher"
+   }
+}

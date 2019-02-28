@@ -1,0 +1,27 @@
+{
+  "Format": "1.3",
+
+  "Changes": [
+
+	//Trophy
+
+		{
+			"Action": "EditImage",
+			"PatchMode": "Replace",
+			"Target": "Tilesheets/Craftables",
+			"ToArea": {"X": 64, "Y": 448, "Width": 16, "Height": 32},
+			"FromFile": "assets/PufferChickStatue.png"
+		},
+
+	//Craftables Data
+
+		{
+			"Action": "EditData",
+			"Target": "Data/BigCraftablesInformation",
+			"Entries": {
+				"116": "Pufferchick Hero Trophy/0/-300/Crafting -9/The most prestigious award a Stardew Valley resident could recieve!/true/true/0"
+			},
+		},
+
+    ]
+}
